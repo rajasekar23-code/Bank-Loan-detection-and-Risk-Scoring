@@ -1,0 +1,328 @@
+﻿Applicants,Age,Gender,Education Type,Employment Type,Experience Years,Annual Income (₹),Loan Type,Loan Amount,Loan Term Years,Interest Rate (%),EMI (₹),Credit Score,Previous Default,Active Loans,Debt to Income Ratio,Fraud Flag,Risk Score,Risk Category,Loan Status
+A001,30,Male,High School,Salaried,8,600000,Home,3000000,10,0.105,40480.5,570,Yes,2,1.6192,Yes,2,High Risk,Rejected
+A002,58,Female,Post Graduate,Salaried,29,1450000,Personal,870000,2.5,0.12,33710.86,780,No,0,0,No,97,Low Risk,Approved
+A003,45,Female,Diploma,Self-Employed,25,1850000,Personal,1110000,3,0.099,35764.49,840,No,1,0.232,No,90,Low Risk,Approved
+A004,45,Male,Graduate,Self-Employed,12,1105000,Home,5525000,10,0.105,74551.59,560,Yes,2,1.6192,Yes,2,High Risk,Rejected
+A005,36,Male,High School,Salaried,9,650000,Personal,390000,3.5,0.18,12583.06,670,No,0,0,No,92,Low Risk,Approved
+A006,37,Female,High School,Salaried,17,1050000,Personal,630000,2,0.2,32064.36,600,No,1,0.3664,No,74,Medium Risk,Rejected
+A007,55,Male,Graduate,Salaried,23,1950000,Home,9750000,10,0.095,126162.62,650,No,1,0.7764,No,60,Medium Risk,Approved
+A008,26,Female,High School,Salaried,6,360000,Personal,216000,2.5,0.12,8369.59,790,No,0,0,No,97,Low Risk,Approved
+A009,36,Female,Graduate,Self-Employed,10,1250000,Personal,750000,2,0.18,37443.08,690,No,1,0.3595,No,78,Low Risk,Approved
+A010,40,Male,Diploma,Salaried,16,1350000,Home,6750000,10,0.095,87343.35,670,No,1,0.7764,No,60,Medium Risk,Approved
+A011,54,Female,High School,Salaried,31,1230000,Personal,738000,3,0.26,29734.48,560,Yes,1,0.2901,No,55,Medium Risk,Rejected
+A012,29,Female,Graduate,Salaried,7,720000,Home,3600000,15,0.105,39794.36,560,Yes,1,0.6632,Yes,40,High Risk,Rejected
+A013,23,Male,Diploma,Self-Employed,1,330000,Personal,198000,2,0.099,9127.56,800,No,1,0.3319,No,84,Low Risk,Approved
+A014,49,Female,Post Graduate,Self-Employed,27,2150000,Business,21500000,10,0.16,360153.21,740,No,0,0,No,95,Low Risk,Approved
+A015,23,Male,Post Graduate,Salaried,2,300000,Personal,180000,2.5,0.12,6974.66,760,No,1,0.279,No,85,Low Risk,Approved
+A016,45,Female,Post Graduate,Self-Employed,25,1880000,Personal,1128000,3,0.15,39102.49,740,No,0,0,No,95,Low Risk,Approved
+A017,22,Male,High School,Salaried,1,215000,Personal,129000,1,0.099,11335.15,830,No,0,0,No,99,Low Risk,Approved
+A018,44,Male,Graduate,Salaried,22,1850000,Home,9250000,10,0.088,116176.23,710,No,1,0.7536,No,63,Medium Risk,Approved
+A019,25,Male,High School,Self-Employed,4,300000,Personal,180000,1,0.18,16502.4,680,No,0,0,No,92,Low Risk,Approved
+A020,31,Female,High School,Salaried,9,880000,Personal,528000,2.5,0.18,21985.49,660,No,0,0,No,91,Low Risk,Approved
+A021,47,Male,Graduate,Salaried,26,1970000,Personal,1182000,4,0.24,38535.37,620,No,1,0.2347,No,80,Low Risk,Rejected
+A022,34,Female,High School,Salaried,11,700000,Home,3500000,10,0.105,47227.25,570,Yes,2,1.6192,Yes,2,High Risk,Rejected
+A023,27,Female,Diploma,Salaried,6,730000,Home,3650000,15,0.095,38114.2,660,No,0,0,No,91,Low Risk,Approved
+A024,43,Female,Graduate,Salaried,21,1960000,Personal,1176000,5,0.12,26159.47,760,No,1,0.1602,No,89,Low Risk,Approved
+A025,38,Male,High School,Self-Employed,18,1230000,Business,12300000,10,0.12,176469.27,850,No,0,0,No,100,Low Risk,Approved
+A026,28,Male,Post Graduate,Salaried,4,350000,Personal,210000,2.5,0.18,8744.23,650,No,1,0.2998,No,79,Low Risk,Approved
+A027,49,Female,High School,Salaried,28,1750000,Personal,1050000,3.5,0.26,38329.03,570,Yes,3,0.7885,Yes,35,High Risk,Rejected
+A028,51,Female,Diploma,Self-Employed,30,2400000,Home,12000000,15,0.105,132647.87,610,No,0,0,No,89,Low Risk,Rejected
+A029,43,Female,Post Graduate,Salaried,20,1580000,Personal,948000,3,0.099,30544.8,830,No,0,0,No,99,Low Risk,Approved
+A030,43,Female,High School,Self-Employed,19,2010000,Personal,1206000,4,0.099,30529.39,830,No,0,0,No,99,Low Risk,Approved
+A031,23,Male,Graduate,Self-Employed,2,500000,Home,2500000,10,0.082,30596.74,750,No,1,0.7343,No,66,Medium Risk,Approved
+A032,48,Female,Graduate,Salaried,19,1650000,Personal,990000,5,0.099,20985.9,820,No,1,0.1526,No,92,Low Risk,Approved
+A033,59,Male,Post Graduate,Self-Employed,28,2240000,Business,22400000,7,0.22,524741.14,640,No,0,0,No,90,Low Risk,Rejected
+A034,25,Male,High School,Salaried,5,650000,Home,3250000,15,0.105,35925.47,560,Yes,1,0.6632,Yes,40,High Risk,Rejected
+A035,35,Female,Diploma,Self-Employed,16,1450000,Personal,870000,3,0.15,30158.84,710,No,1,0.2496,No,83,Low Risk,Approved
+A036,48,Male,Diploma,Salaried,28,1850000,Home,9250000,10,0.105,124814.87,610,No,0,0,No,89,Low Risk,Rejected
+A037,40,Male,Diploma,Self-Employed,17,1500000,Personal,900000,3.5,0.099,25442.44,820,No,1,0.2035,No,90,Low Risk,Approved
+A038,35,Male,Post Graduate,Salaried,14,1550000,Personal,930000,3,0.099,29964.84,850,No,0,0,No,100,Low Risk,Approved
+A039,31,Male,High School,Self-Employed,10,1050000,Home,5250000,15,0.082,50779.77,780,No,0,0,No,97,Low Risk,Approved
+A040,36,Male,Graduate,Salaried,11,970000,Personal,582000,2,0.2,29621.36,610,No,0,0,No,89,Low Risk,Rejected
+A041,49,Female,Graduate,Self-Employed,25,1930000,Home,9650000,10,0.105,130212.27,590,Yes,1,0.8096,Yes,35,High Risk,Rejected
+A042,36,Female,Post Graduate,Self-Employed,12,1250000,Personal,750000,2.5,0.26,34259.73,570,Yes,3,0.9867,Yes,27,High Risk,Rejected
+A043,29,Female,High School,Salaried,8,540000,Home,2700000,15,0.078,25491.83,810,No,0,0,No,98,Low Risk,Approved
+A044,23,Male,High School,Self-Employed,1,350000,Business,3500000,8,0.138,60402.56,750,No,0,0,No,95,Low Risk,Approved
+A045,40,Female,Graduate,Salaried,18,1250000,Personal,750000,3,0.099,24165.19,840,No,0,0,No,100,Low Risk,Approved
+A046,22,Female,Diploma,Self-Employed,3,304000,Business,3040000,9,0.2,59905.2,660,No,1,2.3647,No,-4,High Risk,Approved
+A047,29,Male,Post Graduate,Salaried,4,390000,Home,1950000,10,0.078,23453.31,800,No,0,0,No,98,Low Risk,Approved
+A048,40,Female,Diploma,Self-Employed,19,1540000,Home,7700000,15,0.095,80405.3,660,No,1,0.6265,No,66,Medium Risk,Approved
+A049,29,Male,High School,Self-Employed,7,850000,Personal,510000,1.5,0.18,32540.95,690,No,0,0,No,92,Low Risk,Approved
+A050,29,Female,Post Graduate,Salaried,3,505000,Personal,303000,2,0.22,15719.08,590,Yes,2,0.747,Yes,38,High Risk,Rejected
+A051,32,Male,Graduate,Salaried,10,890000,Personal,534000,3,0.26,21515.19,560,Yes,2,0.5802,Yes,43,High Risk,Rejected
+A052,37,Female,Diploma,Salaried,8,820000,Home,4100000,10,0.082,50178.66,780,No,1,0.7343,No,67,Medium Risk,Approved
+A053,30,Male,Diploma,Self-Employed,10,930000,Personal,558000,2,0.26,30062.01,570,Yes,3,1.1637,Yes,20,High Risk,Rejected
+A054,38,Male,Graduate,Salaried,15,1150000,Personal,690000,2.5,0.18,28731.04,670,No,0,0,No,92,Low Risk,Approved
+A055,35,Male,High School,Self-Employed,13,1220000,Home,6100000,10,0.095,78932.51,680,No,0,0,No,92,Low Risk,Approved
+A056,60,Female,High School,Salaried,35,900000,Personal,540000,4,0.12,14220.27,790,No,1,0.1896,No,90,Low Risk,Approved
+A057,32,Female,Post Graduate,Self-Employed,9,1000000,Business,10000000,15,0.172,155320.1,730,No,0,0,No,94,Low Risk,Approved
+A058,51,Female,Graduate,Salaried,29,2010000,Personal,1206000,3.5,0.15,37083.37,710,No,0,0,No,93,Low Risk,Approved
+A059,59,Male,Diploma,Self-Employed,35,2005000,Business,20050000,9,0.235,447778.45,630,No,0,0,No,90,Low Risk,Rejected
+A060,28,Female,Post Graduate,Salaried,5,620000,Home,3100000,15,0.078,29268.4,820,No,1,0.5665,No,76,Low Risk,Approved
+A061,24,Male,High School,Salaried,2,220000,Personal,132000,4,0.26,4450.68,550,Yes,3,0.7283,Yes,37,High Risk,Rejected
+A062,25,Male,Diploma,Salaried,5,710000,Home,3550000,20,0.085,30807.72,760,No,0,0,No,96,Low Risk,Approved
+A063,21,Female,Graduate,Self-Employed,2,200000,Personal,120000,5,0.26,3592.86,560,Yes,1,0.2156,No,58,Medium Risk,Rejected
+A064,23,Male,High School,Self-Employed,2,460000,Personal,276000,4.5,0.18,7493.78,660,No,0,0,No,91,Low Risk,Approved
+A065,53,Female,Post Graduate,Salaried,29,2010000,Home,10050000,15,0.082,97207,790,No,1,0.5803,No,74,Medium Risk,Approved
+A066,22,Female,Post Graduate,Self-Employed,2,270000,Personal,162000,4,0.24,5281.5,630,No,1,0.2347,No,80,Low Risk,Rejected
+A067,52,Male,Post Graduate,Salaried,28,1830000,Home,9150000,10,0.105,123465.52,630,No,1,0.8096,No,57,Medium Risk,Rejected
+A068,50,Female,Graduate,Self-Employed,29,2030000,Business,20300000,7,0.15,391724.12,710,No,0,0,No,93,Low Risk,Approved
+A069,47,Male,Graduate,Self-Employed,28,2120000,Home,10600000,15,0.105,117172.29,640,No,1,0.6632,No,64,Medium Risk,Rejected
+A070,30,Male,Diploma,Salaried,9,860000,Personal,516000,3,0.099,16625.65,850,No,1,0.232,No,91,Low Risk,Approved
+A071,49,Female,Diploma,Self-Employed,10,950000,Personal,570000,3.5,0.18,18390.63,660,No,0,0,No,91,Low Risk,Approved
+A072,26,Male,Graduate,Salaried,4,460000,Personal,276000,3,0.099,8892.79,820,No,0,0,No,99,Low Risk,Approved
+A073,30,Female,Graduate,Salaried,8,840000,Personal,504000,2,0.22,26146.59,570,Yes,2,0.747,Yes,37,High Risk,Rejected
+A074,38,Male,Graduate,Salaried,13,1100000,Home,5500000,10,0.088,69077.76,720,No,1,0.7536,No,64,Medium Risk,Approved
+A075,25,Male,High School,Self-Employed,5,1200000,Personal,720000,2.5,0.099,27190.75,830,No,1,0.2719,No,88,Low Risk,Approved
+A076,58,Female,Diploma,Salaried,25,1850000,Home,9250000,20,0.11,95477.43,640,No,0,0,No,90,Low Risk,Rejected
+A077,43,Female,High School,Self-Employed,20,1400000,Home,7000000,25,0.085,56365.9,790,No,1,0.4831,No,78,Low Risk,Approved
+A078,48,Female,Graduate,Salaried,26,1850000,Home,9250000,10,0.095,119692.74,670,No,1,0.7764,No,60,Medium Risk,Approved
+A079,60,Male,Post Graduate,Self-Employed,40,2500000,Business,25000000,8,0.12,406321.04,820,No,1,1.9503,No,21,High Risk,Approved
+A080,26,Male,High School,Salaried,6,450000,Personal,270000,1.5,0.12,16465.15,750,No,0,0,No,95,Low Risk,Approved
+A081,31,Male,Post Graduate,Salaried,5,490000,Personal,294000,1.5,0.099,17643.25,840,No,0,0,No,100,Low Risk,Approved
+A082,52,Female,Graduate,Self-Employed,30,2350000,Business,23500000,5,0.115,516826.27,850,No,1,2.6391,No,-6,High Risk,Approved
+A083,34,Female,Diploma,Self-Employed,15,1700000,Home,8500000,15,0.105,93958.91,610,No,1,0.6632,No,62,Medium Risk,Rejected
+A084,24,Male,Post Graduate,Self-Employed,2,380000,Personal,228000,2,0.12,10732.75,780,No,1,0.3389,No,83,Low Risk,Approved
+A085,21,Female,High School,Salaried,1,200000,Personal,120000,2.5,0.099,4531.79,800,No,1,0.2719,No,87,Low Risk,Approved
+A086,30,Male,Post Graduate,Salaried,6,600000,Home,3000000,10,0.082,36716.09,760,No,0,0,No,96,Low Risk,Approved
+A087,25,Male,Graduate,Salaried,3,525000,Personal,315000,2.5,0.099,11895.95,800,No,0,0,No,98,Low Risk,Approved
+A088,25,Male,Graduate,Self-Employed,2,400000,Personal,240000,3,0.12,7971.43,770,No,1,0.2391,No,87,Low Risk,Approved
+A089,42,Female,Graduate,Salaried,16,1430000,Home,7150000,15,0.088,71671.85,710,No,1,0.6014,No,69,Medium Risk,Approved
+A090,34,Female,Post Graduate,Self-Employed,16,1530000,Home,7650000,15,0.078,72226.86,840,No,1,0.5665,No,77,Low Risk,Approved
+A091,59,Female,Post Graduate,Salaried,31,2030000,Home,10150000,25,0.11,99481.48,610,No,1,0.5881,No,65,Medium Risk,Rejected
+A092,28,Male,Diploma,Self-Employed,8,900000,Personal,540000,3.5,0.15,16604.49,730,No,1,0.2214,No,85,Low Risk,Approved
+A093,23,Female,High School,Salaried,1,200000,Personal,120000,1.5,0.24,8004.25,620,No,1,0.4803,No,70,Medium Risk,Rejected
+A094,25,Female,Post Graduate,Salaried,2,300000,Personal,180000,3,0.18,6507.43,690,No,1,0.2603,No,82,Low Risk,Approved
+A095,37,Male,Graduate,Salaried,9,890000,Home,4450000,10,0.088,55890.18,710,No,0,0,No,93,Low Risk,Approved
+A096,49,Male,Post Graduate,Self-Employed,27,2280000,Business,22800000,8,0.12,370564.78,810,No,0,0,No,98,Low Risk,Approved
+A097,48,Female,Post Graduate,Salaried,24,1800000,Home,9000000,25,0.1,81783.07,670,No,0,0,No,92,Low Risk,Approved
+A098,22,Male,Graduate,Self-Employed,1,240000,Personal,144000,2,0.12,6778.58,790,No,1,0.3389,No,84,Low Risk,Approved
+A099,26,Female,Graduate,Salaried,4,520000,Personal,312000,3,0.26,12570.67,570,Yes,2,0.5802,Yes,44,High Risk,Rejected
+A100,48,Male,High School,Self-Employed,29,2250000,Personal,1350000,5,0.12,30030,780,No,0,0,No,97,Low Risk,Approved
+A101,49,Female,Diploma,Self-Employed,28,2050000,Business,20500000,10,0.138,315835.65,790,No,1,1.8488,No,23,High Risk,Approved
+A102,30,Male,High School,Self-Employed,7,900000,Home,4500000,10,0.082,55074.14,760,No,0,0,No,96,Low Risk,Approved
+A103,27,Female,Diploma,Salaried,5,450000,Home,2250000,15,0.082,21762.76,770,No,1,0.5803,No,73,Medium Risk,Approved
+A104,48,Male,Post Graduate,Salaried,24,1500000,Home,7500000,20,0.072,59051.2,840,No,1,0.4724,No,81,Low Risk,Approved
+A105,56,Female,Graduate,Self-Employed,31,2250000,Personal,1350000,5,0.26,40419.63,560,Yes,3,0.6467,Yes,40,High Risk,Rejected
+A106,22,Male,Graduate,Salaried,1,200000,Personal,120000,1.5,0.15,7486.17,720,No,1,0.4492,No,76,Low Risk,Approved
+A107,24,Male,Post Graduate,Self-Employed,3,550500,Personal,330300,2,0.15,16015.14,730,No,1,0.3491,No,80,Low Risk,Approved
+A108,38,Male,Post Graduate,Salaried,14,980000,Home,4900000,15,0.105,54164.55,580,Yes,2,1.3265,Yes,14,High Risk,Rejected
+A109,41,Female,Post Graduate,Self-Employed,15,1925000,Home,9625000,10,0.088,120886.07,710,No,1,0.7536,No,63,Medium Risk,Approved
+A110,33,Female,Graduate,Self-Employed,10,920000,Home,4600000,10,0.078,55325.75,850,No,0,0,No,100,Low Risk,Approved
+A111,54,Male,Graduate,Salaried,29,1650000,Home,8250000,10,0.105,111321.37,620,No,1,0.8096,No,57,Medium Risk,Rejected
+A112,29,Male,Diploma,Self-Employed,3,620000,Personal,372000,2.5,0.24,16609.77,640,No,1,0.3215,No,77,Low Risk,Rejected
+A113,33,Female,High School,Salaried,13,850000,Home,4250000,15,0.105,46979.45,640,No,0,0,No,90,Low Risk,Rejected
+A114,28,Female,High School,Self-Employed,10,950000,Business,9500000,11,0.25,211847.74,600,No,1,2.676,No,-19,High Risk,Rejected
+A115,54,Male,Graduate,Salaried,30,1960000,Home,9800000,20,0.1,94572.12,680,No,1,0.579,No,69,Medium Risk,Approved
+A116,55,Female,Diploma,Self-Employed,18,2000000,Business,20000000,12,0.215,388447.58,660,No,1,2.3307,No,-2,High Risk,Approved
+A117,25,Male,Post Graduate,Salaried,1,320000,Personal,192000,1.5,0.26,12995.23,570,Yes,3,1.462,Yes,8,High Risk,Rejected
+A118,38,Male,Graduate,Self-Employed,12,1280000,Home,6400000,15,0.105,70745.53,570,Yes,1,0.6632,Yes,40,High Risk,Rejected
+A119,33,Male,Diploma,Self-Employed,12,1240000,Personal,744000,3,0.24,29189.24,620,No,0,0,No,89,Low Risk,Rejected
+A120,55,Male,High School,Salaried,34,1320000,Home,6600000,20,0.1,63691.43,660,No,0,0,No,91,Low Risk,Approved
+A121,50,Female,Diploma,Self-Employed,30,2350000,Home,11750000,25,0.1,106772.34,680,No,1,0.5452,No,70,Medium Risk,Approved
+A122,47,Female,Diploma,Salaried,27,1700000,Home,8500000,10,0.078,102232.37,810,No,1,0.7216,No,69,Medium Risk,Approved
+A123,38,Female,High School,Self-Employed,11,1300000,Personal,780000,4,0.15,21707.98,740,No,0,0,No,95,Low Risk,Approved
+A124,57,Male,Graduate,Salaried,30,1950000,Personal,1170000,5,0.12,26026,770,No,0,0,No,96,Low Risk,Approved
+A125,37,Female,Post Graduate,Salaried,10,900000,Personal,540000,3,0.24,21185.74,600,No,0,0,No,88,Low Risk,Rejected
+A126,34,Male,Graduate,Self-Employed,13,1350000,Business,13500000,9,0.12,204987.14,850,No,1,1.8221,No,27,High Risk,Approved
+A127,44,Female,Graduate,Salaried,21,1840000,Home,9200000,15,0.105,101696.7,590,Yes,2,1.3265,Yes,15,High Risk,Rejected
+A128,30,Male,Post Graduate,Self-Employed,3,600000,Personal,360000,1.5,0.15,22458.52,730,No,1,0.4492,No,76,Low Risk,Approved
+A129,25,Female,Diploma,Salaried,6,660000,Home,3300000,20,0.085,28638.17,780,No,0,0,No,97,Low Risk,Approved
+A130,28,Female,High School,Self-Employed,10,1350000,Home,6750000,25,0.08,52097.59,830,No,0,0,No,99,Low Risk,Approved
+A131,37,Male,Graduate,Salaried,10,1050000,Home,5250000,30,0.1,46072.51,680,No,0,0,No,92,Low Risk,Approved
+A132,40,Male,High School,Self-Employed,19,1600000,Personal,960000,3,0.12,31885.74,780,No,1,0.2391,No,87,Low Risk,Approved
+A133,23,Female,Post Graduate,Self-Employed,3,550000,Personal,330000,2,0.2,16795.61,620,No,0,0,No,89,Low Risk,Rejected
+A134,24,Male,High School,Salaried,4,270000,Personal,162000,3.5,0.26,5913.62,580,Yes,1,0.2628,No,57,Medium Risk,Rejected
+A135,43,Female,Diploma,Salaried,21,1960000,Home,9800000,30,0.08,71908.93,810,No,1,0.4403,No,81,Low Risk,Approved
+A136,38,Female,Post Graduate,Salaried,13,1220000,Home,6100000,20,0.085,52937.22,750,No,1,0.5207,No,74,Medium Risk,Approved
+A137,49,Male,Graduate,Salaried,25,1480000,Personal,888000,5,0.12,19753.07,780,No,1,0.1602,No,90,Low Risk,Approved
+A138,25,Female,Post Graduate,Salaried,2,340000,Personal,204000,2,0.12,9602.99,770,No,1,0.3389,No,83,Low Risk,Approved
+A139,49,Male,High School,Salaried,28,1350000,Home,6750000,25,0.085,54352.83,780,No,1,0.4831,No,77,Low Risk,Approved
+A140,35,Female,High School,Salaried,13,1230000,Personal,738000,4.5,0.15,18876.27,720,No,1,0.1842,No,87,Low Risk,Approved
+A141,46,Male,Diploma,Self-Employed,27,2140000,Business,21400000,10,0.195,406497.73,670,No,0,0,No,92,Low Risk,Approved
+A142,46,Female,Graduate,Self-Employed,21,2050000,Home,10250000,20,0.11,105799.31,630,No,0,0,No,90,Low Risk,Rejected
+A143,59,Male,Diploma,Salaried,32,1950000,Home,9750000,30,0.1,85563.23,660,No,0,0,No,91,Low Risk,Approved
+A144,46,Female,Graduate,Self-Employed,24,2000000,Business,20000000,15,0.172,310640.2,720,No,1,1.8638,No,19,High Risk,Approved
+A145,57,Male,High School,Salaried,23,1360000,Personal,816000,5,0.18,20721.04,650,No,1,0.1828,No,83,Low Risk,Approved
+A146,46,Female,Post Graduate,Self-Employed,28,1750000,Business,17500000,10,0.235,379757.56,600,No,1,2.6041,No,-16,High Risk,Rejected
+A147,23,Female,Diploma,Self-Employed,3,500000,Business,5000000,10,0.12,71735.47,800,No,1,1.7217,No,29,High Risk,Approved
+A148,23,Male,Graduate,Self-Employed,1,280000,Personal,168000,1.5,0.26,11370.83,570,Yes,2,0.9746,Yes,28,High Risk,Rejected
+A149,54,Male,High School,Salaried,33,1300000,Home,6500000,30,0.08,47694.7,820,No,1,0.4403,No,81,Low Risk,Approved
+A150,26,Female,Post Graduate,Salaried,3,320000,Personal,192000,2.5,0.24,8572.79,630,No,0,0,No,90,Low Risk,Rejected
+A151,50,Male,Post Graduate,Self-Employed,27,2300000,Home,11500000,30,0.08,84382.93,800,No,0,0,No,98,Low Risk,Approved
+A152,45,Female,Graduate,Salaried,20,1540000,Home,7700000,25,0.11,75468.71,570,Yes,0,0,No,67,Medium Risk,Rejected
+A153,57,Female,Graduate,Self-Employed,24,1850000,Business,18500000,9,0.16,324217.14,740,No,1,2.103,No,11,High Risk,Approved
+A154,60,Male,Diploma,Salaried,38,1600000,Home,8000000,30,0.11,76185.87,560,Yes,0,0,No,66,Medium Risk,Rejected
+A155,51,Male,High School,Self-Employed,28,2100000,Home,10500000,30,0.085,80735.92,770,No,1,0.4613,No,78,Low Risk,Approved
+A156,38,Female,Graduate,Self-Employed,15,1850000,Business,18500000,7,0.22,433379.96,590,Yes,2,5.6222,Yes,-157,High Risk,Rejected
+A157,36,Male,Post Graduate,Salaried,13,1050000,Home,5250000,20,0.072,41335.84,840,No,0,0,No,100,Low Risk,Approved
+A158,42,Female,Post Graduate,Self-Employed,18,2000000,Personal,1200000,5,0.099,25437.45,800,No,1,0.1526,No,92,Low Risk,Approved
+A159,39,Male,Graduate,Salaried,12,850000,Home,4250000,15,0.105,46979.45,590,Yes,0,0,No,68,Medium Risk,Rejected
+A160,57,Female,High School,Self-Employed,25,2150000,Business,21500000,10,0.235,466559.28,620,No,1,2.6041,No,-15,High Risk,Rejected
+A161,29,Male,Diploma,Salaried,4,510000,Personal,306000,3,0.099,9859.4,800,No,1,0.232,No,88,Low Risk,Approved
+A162,36,Female,High School,Self-Employed,11,1250000,Home,6250000,20,0.11,64511.77,610,No,1,0.6193,No,64,Medium Risk,Rejected
+A163,40,Male,Post Graduate,Salaried,15,1350000,Personal,810000,4,0.18,23793.75,660,No,0,0,No,91,Low Risk,Approved
+A164,58,Female,Graduate,Self-Employed,30,2200000,Business,22000000,9,0.235,491327.97,640,No,1,2.68,No,-17,High Risk,Rejected
+A165,38,Male,Graduate,Self-Employed,16,1540000,Personal,924000,4.5,0.26,29195.13,550,Yes,0,0,No,66,Medium Risk,Rejected
+A166,29,Female,Graduate,Self-Employed,7,950000,Business,9500000,8,0.235,220268.86,590,Yes,3,8.347,Yes,-266,High Risk,Rejected
+A167,29,Female,Post Graduate,Self-Employed,3,350000,Business,3500000,9,0.235,78165.81,600,No,1,2.68,No,-19,High Risk,Rejected
+A168,55,Male,Post Graduate,Salaried,33,1211000,Personal,726600,5,0.12,16162.82,760,No,0,0,No,96,Low Risk,Approved
+A169,36,Male,Diploma,Self-Employed,15,1450000,Home,7250000,15,0.078,68450.3,810,No,0,0,No,98,Low Risk,Approved
+A170,34,Female,High School,Salaried,11,840000,Home,4200000,20,0.1,40530.91,680,No,1,0.579,No,69,Medium Risk,Approved
+A171,22,Male,Diploma,Self-Employed,1,210000,Personal,126000,1.5,0.099,7561.39,850,No,1,0.4321,No,83,Low Risk,Approved
+A172,49,Female,Graduate,Salaried,23,1930000,Personal,1158000,4,0.099,29314.29,820,No,1,0.1823,No,91,Low Risk,Approved
+A173,53,Male,Post Graduate,Self-Employed,30,2000000,Home,10000000,30,0.085,76891.35,760,No,1,0.4613,No,77,Low Risk,Approved
+A174,29,Female,High School,Salaried,4,270000,Home,1350000,15,0.082,13057.66,790,No,1,0.5803,No,74,Medium Risk,Approved
+A175,51,Female,Diploma,Self-Employed,31,1920000,Personal,1152000,5,0.26,34491.42,570,Yes,1,0.2156,No,58,Medium Risk,Rejected
+A176,55,Male,Graduate,Salaried,29,1950000,Personal,1170000,5,0.15,27834.22,740,No,1,0.1713,No,88,Low Risk,Approved
+A177,59,Male,Graduate,Salaried,30,1850000,Personal,1110000,5,0.099,23529.64,830,No,1,0.1526,No,93,Low Risk,Approved
+A178,32,Male,High School,Salaried,7,510000,Home,2550000,15,0.105,28187.67,630,No,1,0.6632,No,63,Medium Risk,Rejected
+A179,26,Male,Graduate,Self-Employed,4,530000,Personal,318000,3,0.12,10562.15,750,No,1,0.2391,No,86,Low Risk,Approved
+A180,40,Male,High School,Self-Employed,18,2000000,Business,20000000,10,0.235,434008.64,550,Yes,1,2.6041,Yes,-38,High Risk,Rejected
+A181,48,Female,Post Graduate,Salaried,21,1950000,Personal,1170000,5,0.26,35030.35,590,Yes,0,0,No,68,Medium Risk,Rejected
+A182,46,Male,Diploma,Self-Employed,22,2000000,Business,20000000,10,0.138,308132.34,790,No,0,0,No,97,Low Risk,Approved
+A183,59,Male,High School,Salaried,29,1450000,Home,7250000,10,0.078,87198.2,850,No,1,0.7216,No,71,Medium Risk,Approved
+A184,51,Male,Diploma,Salaried,30,1960000,Home,9800000,15,0.105,108329.09,620,No,1,0.6632,No,63,Medium Risk,Rejected
+A185,43,Female,Post Graduate,Self-Employed,22,2050000,Business,20500000,7,0.18,430865.68,670,No,1,2.5221,No,-9,High Risk,Approved
+A186,33,Male,Graduate,Salaried,10,1100000,Home,5500000,10,0.082,67312.84,770,No,1,0.7343,No,67,Medium Risk,Approved
+A187,28,Female,Post Graduate,Self-Employed,11,1400000,Business,14000000,9,0.14,227035.61,750,No,0,0,No,95,Low Risk,Approved
+A188,56,Female,Post Graduate,Salaried,27,2060000,Personal,1236000,4.5,0.15,31613.92,710,No,1,0.1842,No,86,Low Risk,Approved
+A189,24,Female,Graduate,Salaried,1,300000,Personal,180000,1.5,0.099,10801.99,820,No,0,0,No,99,Low Risk,Approved
+A190,25,Male,High School,Salaried,5,310000,Personal,186000,2,0.18,9285.88,650,No,1,0.3595,No,76,Low Risk,Approved
+A191,32,Male,Diploma,Salaried,9,850000,Home,4250000,10,0.095,54993.96,650,No,1,0.7764,No,60,Medium Risk,Approved
+A192,50,Female,Post Graduate,Salaried,28,2250000,Personal,1350000,5,0.12,30030,760,No,0,0,No,96,Low Risk,Approved
+A193,25,Female,Graduate,Self-Employed,2,500000,Business,5000000,8,0.2,103212.3,680,No,0,0,No,92,Low Risk,Approved
+A194,33,Female,Graduate,Self-Employed,9,1300000,Business,13000000,9,0.2,256173.54,670,No,1,2.3647,No,-3,High Risk,Approved
+A195,24,Male,Graduate,Salaried,3,340000,Personal,204000,2.5,0.12,7904.62,770,No,0,0,No,96,Low Risk,Approved
+A196,36,Male,Post Graduate,Salaried,10,980000,Home,4900000,10,0.105,66118.15,590,Yes,3,2.4288,Yes,-29,High Risk,Rejected
+A197,29,Male,High School,Self-Employed,6,850000,Business,8500000,8,0.138,146691.92,770,No,0,0,No,96,Low Risk,Approved
+A198,55,Female,Graduate,Salaried,25,2150000,Home,10750000,25,0.11,105362.16,560,Yes,2,1.1761,Yes,19,High Risk,Rejected
+A199,42,Female,Post Graduate,Self-Employed,16,1650000,Business,16500000,7,0.22,386528.08,570,Yes,3,8.4333,Yes,-271,High Risk,Rejected
+A200,23,Female,Post Graduate,Salaried,1,260000,Personal,156000,1.5,0.15,9732.03,730,No,0,0,No,94,Low Risk,Approved
+A201,23,Male,High School,Self-Employed,4,600000,Personal,360000,2,0.22,18676.14,590,Yes,3,1.1206,Yes,23,High Risk,Rejected
+A202,39,Male,Diploma,Salaried,11,1050000,Home,5250000,20,0.1,50663.64,670,No,0,0,No,92,Low Risk,Approved
+A203,60,Female,High School,Self-Employed,29,2150000,Home,10750000,30,0.11,102374.77,620,No,1,0.5714,No,66,Medium Risk,Rejected
+A204,23,Female,Graduate,Salaried,1,250000,Personal,150000,1.5,0.12,9147.31,780,No,1,0.4391,No,79,Low Risk,Approved
+A205,38,Male,Post Graduate,Self-Employed,13,1400000,Personal,840000,3.5,0.15,25829.21,740,No,0,0,No,95,Low Risk,Approved
+A206,55,Female,Post Graduate,Salaried,23,1920000,Personal,1152000,3,0.099,37117.74,820,No,1,0.232,No,89,Low Risk,Approved
+A207,44,Male,Graduate,Self-Employed,24,1750000,Business,17500000,8,0.16,324253.75,710,No,0,0,No,93,Low Risk,Approved
+A208,26,Female,Graduate,Salaried,3,320000,Personal,192000,2,0.2,9771.99,600,No,0,0,No,88,Low Risk,Rejected
+A209,28,Male,Diploma,Self-Employed,7,800000,Home,4000000,10,0.105,53974,570,Yes,1,0.8096,Yes,34,High Risk,Rejected
+A210,58,Female,Graduate,Salaried,30,1970000,Home,9850000,15,0.095,102856.13,680,No,1,0.6265,No,67,Medium Risk,Approved
+A211,22,Male,Diploma,Self-Employed,3,340000,Personal,204000,2.5,0.099,7704.05,820,No,0,0,No,99,Low Risk,Approved
+A212,55,Female,Graduate,Self-Employed,28,2140000,Home,10700000,20,0.11,110444.16,560,Yes,0,0,No,66,Medium Risk,Rejected
+A213,43,Male,High School,Salaried,21,930000,Home,4650000,10,0.095,60169.86,670,No,0,0,No,92,Low Risk,Approved
+A214,48,Female,Graduate,Self-Employed,26,2000000,Business,20000000,9,0.235,446661.8,550,Yes,3,8.0399,Yes,-256,High Risk,Rejected
+A215,27,Male,Diploma,Salaried,6,720000,Personal,432000,2,0.2,21986.99,630,No,1,0.3664,No,75,Low Risk,Rejected
+A216,26,Female,Post Graduate,Salaried,2,390000,Personal,234000,1.5,0.26,15837.94,580,Yes,3,1.462,Yes,9,High Risk,Rejected
+A217,21,Male,Diploma,Salaried,2,260000,Personal,156000,2,0.12,7343.46,750,No,0,0,No,95,Low Risk,Approved
+A218,50,Male,High School,Self-Employed,30,1950000,Personal,1170000,5,0.15,27834.22,700,No,0,0,No,93,Low Risk,Approved
+A219,59,Female,Graduate,Salaried,29,1920000,Home,9600000,25,0.1,87235.27,680,No,0,0,No,92,Low Risk,Approved
+A220,26,Female,Post Graduate,Self-Employed,7,850000,Home,4250000,20,0.092,38786.72,730,No,1,0.5476,No,72,Medium Risk,Approved
+A221,53,Female,High School,Salaried,33,1256000,Home,6280000,30,0.085,48287.77,730,No,1,0.4613,No,76,Low Risk,Approved
+A222,56,Male,Graduate,Self-Employed,31,1850000,Business,18500000,10,0.138,285022.41,790,No,0,0,No,97,Low Risk,Approved
+A223,50,Female,Post Graduate,Salaried,29,1970000,Home,9850000,25,0.08,76023.9,830,No,0,0,No,99,Low Risk,Approved
+A224,36,Male,High School,Self-Employed,6,600000,Personal,360000,2.5,0.12,13949.32,790,No,1,0.279,No,86,Low Risk,Approved
+A225,26,Female,Post Graduate,Salaried,3,400000,Personal,240000,2,0.18,11981.78,690,No,1,0.3595,No,78,Low Risk,Approved
+A226,53,Male,Graduate,Self-Employed,30,1960000,Home,9800000,20,0.072,77160.23,820,No,0,0,No,99,Low Risk,Approved
+A227,33,Female,Post Graduate,Salaried,10,950000,Home,4750000,15,0.105,52506.45,600,No,0,0,No,88,Low Risk,Rejected
+A228,44,Male,Diploma,Self-Employed,23,2000000,Business,20000000,7,0.18,420356.76,680,No,0,0,No,92,Low Risk,Approved
+A229,32,Female,High School,Salaried,7,490000,Personal,294000,3,0.099,9472.76,840,No,1,0.232,No,90,Low Risk,Approved
+A230,40,Male,Post Graduate,Salaried,16,1400000,Personal,840000,4.5,0.099,19340.02,830,No,0,0,No,99,Low Risk,Approved
+A231,33,Female,High School,Salaried,9,680000,Home,3400000,10,0.105,45877.9,620,No,0,0,No,89,Low Risk,Rejected
+A232,43,Male,Diploma,Salaried,20,1640000,Home,8200000,20,0.072,64562.64,840,No,0,0,No,100,Low Risk,Approved
+A233,57,Female,High School,Self-Employed,25,2150000,Personal,1290000,4,0.18,37893.75,670,No,1,0.2115,No,83,Low Risk,Approved
+A234,31,Male,Post Graduate,Self-Employed,11,1250000,Home,6250000,25,0.11,61257.07,570,Yes,3,1.7642,Yes,-4,High Risk,Rejected
+A235,37,Female,Graduate,Salaried,11,1020000,Personal,612000,3,0.12,20327.16,750,No,1,0.2391,No,86,Low Risk,Approved
+A236,52,Female,Post Graduate,Self-Employed,29,2150000,Business,21500000,8,0.138,371044.28,770,No,0,0,No,96,Low Risk,Approved
+A237,49,Female,Graduate,Salaried,29,1650000,Home,8250000,30,0.085,63435.36,720,No,1,0.4613,No,75,Low Risk,Approved
+A238,34,Male,High School,Self-Employed,13,1450000,Personal,870000,4,0.15,24212.75,720,No,1,0.2004,No,86,Low Risk,Approved
+A239,57,Female,Graduate,Salaried,24,1950000,Home,9750000,30,0.11,92851.53,550,Yes,2,1.1428,Yes,20,High Risk,Rejected
+A240,28,Female,Post Graduate,Self-Employed,5,590000,Home,2950000,10,0.082,36104.16,790,No,0,0,No,97,Low Risk,Approved
+A241,27,Male,High School,Salaried,9,690000,Personal,414000,3,0.26,16680.32,580,Yes,2,0.5802,Yes,44,High Risk,Rejected
+A242,55,Female,Post Graduate,Self-Employed,28,2400000,Business,24000000,9,0.235,535994.15,640,No,0,0,No,90,Low Risk,Rejected
+A243,49,Male,Graduate,Salaried,27,1850000,Home,9250000,20,0.085,80273.65,750,No,0,0,No,95,Low Risk,Approved
+A244,50,Female,Post Graduate,Salaried,28,2260000,Personal,1356000,4,0.099,34326.58,850,No,0,0,No,100,Low Risk,Approved
+A245,42,Male,High School,Salaried,20,1470000,Home,7350000,15,0.105,81246.82,570,Yes,2,1.3265,Yes,14,High Risk,Rejected
+A246,57,Male,Diploma,Salaried,31,1852000,Personal,1111200,5,0.12,24718.03,760,No,1,0.1602,No,89,Low Risk,Approved
+A247,21,Female,High School,Salaried,4,320000,Home,1600000,10,0.088,20095.35,730,No,1,0.7536,No,64,Medium Risk,Approved
+A248,36,Male,Diploma,Self-Employed,5,600000,Personal,360000,2.5,0.15,14464.28,740,No,1,0.2893,No,83,Low Risk,Approved
+A249,33,Female,Post Graduate,Self-Employed,11,1100000,Home,5500000,10,0.082,67312.84,760,No,0,0,No,96,Low Risk,Approved
+A250,29,Male,High School,Salaried,10,720000,Home,3600000,10,0.078,43298.42,840,No,0,0,No,100,Low Risk,Approved
+A251,45,Female,Diploma,Salaried,25,2150000,Personal,1290000,3,0.099,41564.13,830,No,0,0,No,99,Low Risk,Approved
+A252,52,Male,Graduate,Salaried,28,2000000,Personal,1200000,4,0.15,33396.9,720,No,1,0.2004,No,86,Low Risk,Approved
+A253,56,Female,Post Graduate,Salaried,22,1950000,Personal,1170000,5,0.18,29710.31,660,No,0,0,No,91,Low Risk,Approved
+A254,59,Male,Diploma,Salaried,21,1750000,Home,8750000,20,0.072,68893.06,840,No,0,0,No,100,Low Risk,Approved
+A255,35,Female,Graduate,Salaried,11,960000,Home,4800000,20,0.085,41655.52,760,No,1,0.5207,No,75,Low Risk,Approved
+A256,53,Female,High School,Self-Employed,20,2020000,Business,20200000,6,0.22,507547.77,560,Yes,0,0,No,66,Medium Risk,Rejected
+A257,57,Male,Post Graduate,Salaried,25,1850000,Home,9250000,15,0.095,96590.78,660,No,1,0.6265,No,66,Medium Risk,Approved
+A258,34,Male,Diploma,Self-Employed,15,1300000,Personal,780000,2.5,0.24,34826.94,600,No,1,0.3215,No,75,Low Risk,Rejected
+A259,28,Female,Graduate,Salaried,4,370000,Personal,222000,3.5,0.18,7162.67,650,No,1,0.2323,No,81,Low Risk,Approved
+A260,35,Male,High School,Self-Employed,15,1250000,Home,6250000,10,0.095,80873.47,670,No,1,0.7764,No,60,Medium Risk,Approved
+A261,46,Female,Graduate,Salaried,24,1990000,Personal,1194000,5,0.26,35748.92,550,Yes,1,0.2156,No,57,Medium Risk,Rejected
+A262,33,Male,Post Graduate,Self-Employed,14,1500000,Business,15000000,10,0.12,215206.42,800,No,0,0,No,98,Low Risk,Approved
+A263,58,Female,Post Graduate,Self-Employed,17,1550000,Personal,930000,3,0.18,33621.73,650,No,1,0.2603,No,80,Low Risk,Approved
+A264,39,Female,Graduate,Salaried,10,950000,Home,4750000,15,0.105,52506.45,620,No,0,0,No,89,Low Risk,Rejected
+A265,41,Male,High School,Self-Employed,20,1850000,Home,9250000,20,0.072,72829.81,840,No,0,0,No,100,Low Risk,Approved
+A266,36,Male,Graduate,Salaried,9,1000000,Personal,600000,2.5,0.24,26789.95,610,No,0,0,No,89,Low Risk,Rejected
+A267,45,Male,Post Graduate,Self-Employed,23,2200000,Business,22000000,9,0.16,385555.52,700,No,1,2.103,No,9,High Risk,Approved
+A268,25,Male,High School,Self-Employed,6,805000,Personal,483000,3,0.099,15562.38,820,No,0,0,No,99,Low Risk,Approved
+A269,37,Female,Graduate,Salaried,12,900000,Home,4500000,25,0.092,38382.04,720,No,1,0.5118,No,73,Medium Risk,Approved
+A270,35,Female,Post Graduate,Salaried,10,970000,Personal,582000,3,0.18,21040.69,670,No,1,0.2603,No,81,Low Risk,Approved
+A271,28,Female,Graduate,Salaried,5,620000,Personal,372000,2,0.099,17148.75,810,No,1,0.3319,No,85,Low Risk,Approved
+A272,48,Male,Diploma,Salaried,25,1950000,Personal,1170000,4.5,0.26,36967.86,550,Yes,2,0.455,No,48,High Risk,Rejected
+A273,48,Female,High School,Salaried,30,1150000,Home,5750000,25,0.085,46300.56,750,No,1,0.4831,No,76,Low Risk,Approved
+A274,43,Male,Graduate,Salaried,21,1950000,Personal,1170000,5,0.26,35030.35,560,Yes,1,0.2156,No,58,Medium Risk,Rejected
+A275,33,Female,Post Graduate,Salaried,12,1150000,Personal,690000,2,0.2,35118.1,620,No,0,0,No,89,Low Risk,Rejected
+A276,59,Male,Graduate,Self-Employed,12,1200000,Home,6000000,20,0.072,47240.96,810,No,1,0.4724,No,79,Low Risk,Approved
+A277,46,Male,Diploma,Self-Employed,21,2250000,Business,22500000,10,0.235,488259.72,600,No,1,2.6041,No,-16,High Risk,Rejected
+A278,57,Female,Graduate,Salaried,33,1205000,Home,6025000,20,0.085,52286.35,770,No,0,0,No,96,Low Risk,Approved
+A279,21,Male,Graduate,Salaried,1,220000,Personal,132000,1.5,0.099,7921.46,820,No,1,0.4321,No,81,Low Risk,Approved
+A280,59,Male,High School,Self-Employed,30,2100000,Personal,1260000,5,0.099,26709.32,800,No,0,0,No,98,Low Risk,Approved
+A281,44,Female,Graduate,Self-Employed,21,2150000,Home,10750000,25,0.1,97685.33,680,No,0,0,No,92,Low Risk,Approved
+A282,47,Male,High School,Salaried,22,1240000,Home,6200000,15,0.095,64741.93,670,No,1,0.6265,No,66,Medium Risk,Approved
+A283,51,Female,Post Graduate,Self-Employed,28,2050000,Business,20500000,11,0.25,457145.13,640,No,0,0,No,90,Low Risk,Rejected
+A284,21,Female,Graduate,Salaried,1,230000,Personal,138000,1.5,0.15,8609.1,740,No,1,0.4492,No,77,Low Risk,Approved
+A285,39,Female,Graduate,Self-Employed,14,1200000,Personal,720000,2.5,0.099,27190.75,800,No,1,0.2719,No,87,Low Risk,Approved
+A286,53,Male,Diploma,Self-Employed,25,2250000,Home,11250000,10,0.105,151801.87,570,Yes,3,2.4288,Yes,-30,High Risk,Rejected
+A287,33,Male,High School,Salaried,11,720000,Home,3600000,15,0.105,39794.36,610,No,0,0,No,89,Low Risk,Rejected
+A288,59,Female,Post Graduate,Salaried,28,2100000,Home,10500000,15,0.095,109643.59,680,No,1,0.6265,No,67,Medium Risk,Approved
+A289,36,Female,High School,Salaried,10,680000,Home,3400000,10,0.082,41611.57,780,No,1,0.7343,No,67,Medium Risk,Approved
+A290,21,Male,Graduate,Self-Employed,2,300000,Personal,180000,2,0.099,8297.78,820,No,1,0.3319,No,85,Low Risk,Approved
+A291,57,Female,Graduate,Salaried,27,1750000,Home,8750000,20,0.092,79855.01,740,No,1,0.5476,No,73,Medium Risk,Approved
+A292,29,Male,Diploma,Salaried,8,760000,Personal,456000,3,0.099,14692.44,830,No,0,0,No,99,Low Risk,Approved
+A293,33,Female,High School,Self-Employed,15,1800000,Personal,1080000,5,0.26,32335.71,580,Yes,3,0.6467,Yes,41,High Risk,Rejected
+A294,37,Male,Post Graduate,Salaried,13,1150000,Personal,690000,3,0.24,27070.67,620,No,1,0.2825,No,78,Low Risk,Rejected
+A295,59,Female,Graduate,Self-Employed,23,2250000,Home,11250000,25,0.092,95955.11,710,No,0,0,No,93,Low Risk,Approved
+A296,43,Male,Post Graduate,Self-Employed,19,1870000,Business,18700000,8,0.138,322722.23,770,No,0,0,No,96,Low Risk,Approved
+A297,39,Female,Graduate,Salaried,15,1240000,Personal,744000,4,0.18,21855,670,No,0,0,No,92,Low Risk,Approved
+A298,28,Female,Graduate,Salaried,6,905000,Home,4525000,15,0.078,42722.43,840,No,1,0.5665,No,77,Low Risk,Approved
+A299,49,Male,Post Graduate,Self-Employed,25,2000000,Personal,1200000,5,0.12,26693.34,760,No,0,0,No,96,Low Risk,Approved
+A300,58,Female,High School,Salaried,20,1350000,Home,6750000,15,0.095,70485.17,650,No,1,0.6265,No,66,Medium Risk,Approved
+A301,44,Male,Graduate,Self-Employed,19,2000000,Home,10000000,10,0.105,134935,590,Yes,3,2.4288,Yes,-29,High Risk,Rejected
+A302,60,Male,Post Graduate,Salaried,36,1705000,Personal,1023000,2,0.15,49601.84,700,No,1,0.3491,No,79,Low Risk,Approved
+A303,21,Female,High School,Salaried,1,200000,Personal,120000,3,0.15,4159.84,730,No,0,0,No,94,Low Risk,Approved
+A304,32,Male,Diploma,Self-Employed,9,1150000,Business,11500000,5,0.22,317617.49,600,No,0,0,No,88,Low Risk,Rejected
+A305,50,Female,Post Graduate,Salaried,28,1950000,Home,9750000,20,0.11,100638.37,560,Yes,3,1.8579,Yes,-8,High Risk,Rejected
+A306,29,Male,Diploma,Salaried,6,750500,Personal,450300,3,0.15,15609.8,710,No,1,0.2496,No,83,Low Risk,Approved
+A307,54,Male,High School,Salaried,31,1480000,Personal,888000,5,0.24,25545.95,610,No,1,0.2071,No,80,Low Risk,Rejected
+A308,23,Female,High School,Self-Employed,4,810000,Personal,486000,3,0.18,17570.06,650,No,1,0.2603,No,80,Low Risk,Approved
+A309,59,Female,Graduate,Self-Employed,32,2500000,Home,12500000,30,0.11,119040.42,640,No,1,0.5714,No,67,Medium Risk,Rejected
+A310,49,Female,Post Graduate,Salaried,24,1920000,Home,9600000,30,0.085,73815.69,780,No,1,0.4613,No,78,Low Risk,Approved
+A311,44,Male,Diploma,Self-Employed,18,2000000,Business,20000000,7,0.22,468518.88,610,No,0,0,No,89,Low Risk,Rejected
+A312,39,Male,High School,Salaried,13,930000,Personal,558000,3,0.12,18533.58,750,No,0,0,No,95,Low Risk,Approved
+A313,56,Male,Post Graduate,Self-Employed,27,1850000,Personal,1110000,3,0.18,40129.16,650,No,1,0.2603,No,80,Low Risk,Approved
+A314,31,Female,High School,Salaried,8,580000,Home,2900000,20,0.092,26466.23,710,No,0,0,No,93,Low Risk,Approved
+A315,47,Female,Graduate,Self-Employed,23,2240000,Home,11200000,30,0.08,82181.63,800,No,0,0,No,98,Low Risk,Approved
+A316,44,Female,Post Graduate,Salaried,19,1550000,Personal,930000,3,0.099,29964.84,810,No,0,0,No,98,Low Risk,Approved
+A317,56,Female,Post Graduate,Self-Employed,21,2200000,Business,22000000,6,0.15,465190.29,710,No,0,0,No,93,Low Risk,Approved
+A318,35,Female,Graduate,Self-Employed,12,1350000,Personal,810000,4,0.099,20504.81,820,No,1,0.1823,No,91,Low Risk,Approved
+A319,28,Male,High School,Salaried,9,720000,Home,3600000,10,0.088,45214.53,700,No,0,0,No,93,Low Risk,Approved
+A320,47,Male,Graduate,Salaried,21,1900000,Personal,1140000,5,0.18,28948.51,660,No,1,0.1828,No,84,Low Risk,Approved
+A321,41,Female,Post Graduate,Self-Employed,17,1530000,Home,7650000,25,0.092,65249.47,740,No,0,0,No,95,Low Risk,Approved
+A322,28,Male,Diploma,Salaried,10,1000000,Home,5000000,20,0.1,48251.08,680,No,1,0.579,No,69,Medium Risk,Approved
+A323,25,Female,Graduate,Self-Employed,3,560000,Personal,336000,2,0.22,17431.06,560,Yes,1,0.3735,No,51,Medium Risk,Rejected
+A324,29,Male,Post Graduate,Salaried,5,540000,Personal,324000,2.5,0.12,12554.39,760,No,0,0,No,96,Low Risk,Approved
+A325,45,Male,Graduate,Self-Employed,22,2250000,Personal,1350000,5,0.24,38836.75,640,No,1,0.2071,No,82,Low Risk,Rejected
+A326,32,Male,Post Graduate,Salaried,8,810000,Home,4050000,30,0.1,35541.65,670,No,1,0.5265,No,70,Medium Risk,Approved
+A327,51,Female,Post Graduate,Self-Employed,29,1960000,Home,9800000,30,0.085,75353.52,790,No,1,0.4613,No,79,Low Risk,Approved
