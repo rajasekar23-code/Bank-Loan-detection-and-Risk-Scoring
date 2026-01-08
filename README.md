@@ -1,4 +1,12 @@
-# Bank Loan Detection & Risk Scoring – Data Analysis Project
+# 🏦 Bank Loan Detection & Risk Scoring – Data Analysis Project
+
+## Table of Content
+
+- Project overview
+- Data Workflow
+- Data Source
+- Data Analysis
+- Explotary Data Analysis
 
 ## Project Overview
 
