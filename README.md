@@ -26,10 +26,13 @@ The dataset was self-created and cleaned using Excel, analyzed using SQL, and vi
 
 ## Data Workflow
 
-- Dataset Creation (Excel)
+  ### Dataset Creation (Excel)
+  
 - Manually created a structured bank loan dataset
 - Defined customer, loan, and risk-related attributes
-- Data Cleaning (Excel)
+
+  ### Data Cleaning (Excel)
+  
 - Removed duplicates
 - Handled missing values
 - Standardized column names and formats
@@ -51,12 +54,8 @@ The dataset was self-created and cleaned using Excel, analyzed using SQL, and vi
 
 - Primary Source: Self-created dataset
 Tool Used: Microsoft Excel
-
 File Format: CSV
-
-Dataset File:
-
-<a href="https://github.com/rajasekar23-code/Bank-Loan-detection-and-Risk-Scoring/blob/main/bank%20loan%20detection%20and%20risk%20scoring.csv">Data set
+      <a href="https://github.com/rajasekar23-code/Bank-Loan-detection-and-Risk-Scoring/blob/main/bank%20loan%20detection%20and%20risk%20scoring.csv">Data set
 
 ## Data Analysis (SQL Queries)
 
@@ -131,5 +130,10 @@ Interactive slicers for deep analysis
 - Deploy dashboard using Power BI Service
 - Automate data refresh and reporting
 
-  ## Dahsboard Previews
+  ## Dahsboard Previews:
+
+    ### Overall Dashboard
+
+
+    ### After Selecting Medium Risk
   
