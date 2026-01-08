@@ -144,9 +144,23 @@ File Format: CSV
 
   <img width="648" height="376" alt="Total Applications" src="https://github.com/user-attachments/assets/27d3d72d-67e8-463e-adef-8f924f9e3d12" />
 
+### After Selecting Low Risk
+
+<img width="763" height="441" alt="Low Risk" src="https://github.com/user-attachments/assets/42cce388-48e6-4b1c-bf9b-2f30cc56bef8" />
+
+
 
 ### After Selecting Medium Risk
 
-  <img width="647" height="374" alt="By selecting Medium Risk" src="https://github.com/user-attachments/assets/c861838c-d26c-4ece-af40-de15a79f867e" />
+
+<img width="730" height="443" alt="Medium Risk" src="https://github.com/user-attachments/assets/9bd6219c-9ef8-41f4-a9ff-205c2bd1267b" />
+
+  
+
+### After Selecting High Risk
+
+
+
+<img width="764" height="446" alt="High Risk" src="https://github.com/user-attachments/assets/8130bb68-88a6-4d22-a638-199d1368224c" />
 
   
