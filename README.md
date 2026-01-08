@@ -101,8 +101,7 @@ Interactive slicers for deep analysis
 
 ## Dashboard File:
 
-
-
+<a href="">Dashboard
 ## Key Metrics
 
 - Total Loan Applications
@@ -134,6 +133,12 @@ Interactive slicers for deep analysis
 
     ### Overall Dashboard
 
+  <img width="648" height="376" alt="Total Applications" src="https://github.com/user-attachments/assets/27d3d72d-67e8-463e-adef-8f924f9e3d12" />
+
+
 
     ### After Selecting Medium Risk
+
+  <img width="647" height="374" alt="By selecting Medium Risk" src="https://github.com/user-attachments/assets/c861838c-d26c-4ece-af40-de15a79f867e" />
+
   
