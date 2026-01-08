@@ -2,11 +2,12 @@
 
 ## Table of Content
 
-- Project overview
-- Data Workflow
-- Data Source
-- Data Analysis
-- Explotary Data Analysis
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Workflow](#data-workflow)
+- [Data Source](#ddata-sources)
+- [Data Analysis](#
+- [Explotary Data Analysis](#
 
 ## Project Overview
 
@@ -29,7 +30,7 @@ The final output is an interactive Power BI dashboard that provides actionable i
 - Credit score impact on loan decisions
 - DTI ratio vs loan approval trends
 - Customer segmentation using charts and KPIs
-Interactive filters for deep analysis
+- Interactive filters for deep analysis
 
 ## Key Insights
 
