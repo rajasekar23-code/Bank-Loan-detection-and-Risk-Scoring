@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Detection & Risk Scoring 
 
-## Table of Content
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
@@ -31,25 +31,25 @@
 
 ## Data Workflow
 
-  ### Dataset Creation (Excel)
+### Dataset Creation (Excel)
   
 - Manually created a structured bank loan dataset
 - Defined customer, loan, and risk-related attributes
 
-  ### Data Cleaning (Excel)
+### Data Cleaning (Excel)
   
 - Removed duplicates
 - Handled missing values
 - Standardized column names and formats
 - Validated numerical ranges (credit score, income, DTI)
 
-  ### Data Analysis (SQL)
+### Data Analysis (SQL)
 
 - Performed aggregations and filtering
 - Analyzed approval rates, risk categories, and trends
 - Extracted key business insights
 
-  ### Data Visualization (Power BI)
+### Data Visualization (Power BI)
 
 - Built interactive dashboards
 - Used KPIs, bar charts, line charts, and scatter plots
@@ -58,14 +58,16 @@
 ## Data Source
 
 - Primary Source: Self-created dataset
+
 Tool Used: Microsoft Excel
+
 File Format: CSV
 
 <a href="https://github.com/rajasekar23-code/Bank-Loan-detection-and-Risk-Scoring/blob/main/bank%20loan%20detection%20and%20risk%20scoring.csv">Data set
 
 ## Data Analysis (SQL Queries)
 
-### SQL was used to answer business-driven questions such as:
+ SQL was used to answer business-driven questions such as:
 
 - Loan approval vs rejection rates
 - Risk category distribution
