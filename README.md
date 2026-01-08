@@ -9,33 +9,127 @@
 - [Data Analysis](#
 - [Explotary Data Analysis](#
 
-## Project Overview
+Project Overview
 
-This project focuses on analyzing bank loan data to assess credit risk, detect potential loan defaults, and support better lending decisions. Using structured data analysis and visualization, the project identifies key factors that influence loan approval, rejection, and risk categorization.
+This project aims to analyze bank loan application data to evaluate credit risk, detect potential loan defaults, and support informed lending decisions.
 
-The final output is an interactive Power BI dashboard that provides actionable insights for banking and financial stakeholders.
+The dataset was self-created and cleaned using Excel, analyzed using SQL, and visualized using Power BI to build an interactive business dashboard. The project simulates a real-world banking analytics use case followed by financial institutions to reduce loan default risks.
 
 ## Objectives
 
-- Analyze customer loan applications and risk factors
-- Identify patterns leading to loan approval or rejection
-- Categorize customers into Low, Medium, and High Risk groups
-- Support data-driven decision-making for loan sanctioning
-- Visualize key KPIs and trends clearly for business users
+- Create and clean a structured loan dataset using Excel
+- Analyze customer financial behavior and loan risk factors
+- Understand drivers behind loan approval and rejection
+- Categorize customers into Low, Medium, and High Risk
+- Build a Power BI dashboard for business-friendly insights
+- Demonstrate end-to-end data analytics workflow
 
-## Power BI Dashboard Features
+## Data Workflow
 
-- Loan Approval vs Rejection analysis
-- Risk category distribution (Low / Medium / High)
-- Credit score impact on loan decisions
-- DTI ratio vs loan approval trends
-- Customer segmentation using charts and KPIs
-- Interactive filters for deep analysis
+- Dataset Creation (Excel)
+- Manually created a structured bank loan dataset
+- Defined customer, loan, and risk-related attributes
+- Data Cleaning (Excel)
+- Removed duplicates
+- Handled missing values
+- Standardized column names and formats
+- Validated numerical ranges (credit score, income, DTI)
 
-## Key Insights
+### Data Analysis (SQL)
 
-- Credit score has a strong influence on loan approval decisions
-- Higher DTI ratios significantly increase rejection probability
-- Customers with previous defaults are mostly classified as high-risk
-- Some medium-risk customers are approved, indicating policy flexibility
-- Risk-based segmentation helps reduce loan default chances
+- Performed aggregations and filtering
+- Analyzed approval rates, risk categories, and trends
+- Extracted key business insights
+
+### Data Visualization (Power BI)
+
+- Built interactive dashboards
+- Used KPIs, bar charts, line charts, and scatter plots
+- Enabled slicers for dynamic analysis
+
+## Data Source
+
+- Primary Source: Self-created dataset
+Tool Used: Microsoft Excel
+
+File Format: CSV
+
+📁 Dataset File:
+
+
+
+## Data Analysis (SQL Queries)
+
+SQL was used to answer business-driven questions such as:
+
+Loan approval vs rejection rates
+Risk category distribution
+Impact of credit score on approvals
+Effect of DTI ratio on loan outcomes
+Default history analysis
+
+Examples of SQL analysis performed:
+
+GROUP BY for risk and loan status analysis
+COUNT() and SUM() for approval metrics
+CASE WHEN logic for risk categorization
+Filtering high-risk and default-prone customers
+
+## Exploratory Data Analysis (EDA)
+
+#### Key analytical questions explored:
+
+01. What is the overall loan approval vs rejection rate?
+02. Which risk category has the highest loan rejections?
+03. How does credit score affect loan approval decisions?
+04. At what DTI ratio do loan rejections increase sharply?
+05. Do customers with previous defaults always fall under high risk?
+06. What income range has the highest approval rate?
+07. How many customers fall into each risk category?
+08. Are high loan amounts more likely to be rejected?
+09. Which customer segment shows the highest default probability?
+10. Are medium-risk customers being approved under flexible policies?
+
+## Data Visualization (Power BI)
+
+The Power BI dashboard includes:
+Loan Approval vs Rejection KPI cards
+Risk category distribution charts
+Credit Score vs Loan Status analysis
+DTI Ratio vs Approval trend charts
+Customer segmentation visual
+Interactive slicers for deep analysis
+
+## Dashboard File:
+
+
+
+## Key Metrics
+
+- Total Loan Applications
+- Approval Rate (%)
+- Rejection Rate (%)
+- Average Credit Score
+- Average Loan Amount
+- Average DTI Ratio
+- Risk-wise Customer Count
+- Default Customer Percentage
+
+## Insights and Findings
+
+- Credit score is a major factor influencing loan approval
+- High DTI ratios significantly increase rejection probability
+- Customers with previous defaults are predominantly high-risk
+- Medium-risk customers are sometimes approved, indicating policy flexibility
+- Risk-based segmentation helps identify potential defaulters early
+
+## Future Enhancements
+
+- Add predictive modeling for loan default probability
+- Integrate Python (ML models) for risk scoring
+- Add borrower demographic analysis
+- Deploy dashboard using Power BI Service
+- Automate data refresh and reporting
+
+  ## Dahsboard Previews
+  
