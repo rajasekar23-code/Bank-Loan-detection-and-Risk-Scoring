@@ -8,8 +8,8 @@ The final output is an interactive Power BI dashboard that provides actionable i
 
 ## Objectives
 
-Analyze customer loan applications and risk factors
-Identify patterns leading to loan approval or rejection
-Categorize customers into Low, Medium, and High Risk groups
-Support data-driven decision-making for loan sanctioning
-Visualize key KPIs and trends clearly for business users
+- Analyze customer loan applications and risk factors
+- Identify patterns leading to loan approval or rejection
+- Categorize customers into Low, Medium, and High Risk groups
+- Support data-driven decision-making for loan sanctioning
+- Visualize key KPIs and trends clearly for business users
