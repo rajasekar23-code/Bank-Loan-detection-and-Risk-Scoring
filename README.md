@@ -13,3 +13,20 @@ The final output is an interactive Power BI dashboard that provides actionable i
 - Categorize customers into Low, Medium, and High Risk groups
 - Support data-driven decision-making for loan sanctioning
 - Visualize key KPIs and trends clearly for business users
+
+## Power BI Dashboard Features
+
+- Loan Approval vs Rejection analysis
+- Risk category distribution (Low / Medium / High)
+- Credit score impact on loan decisions
+- DTI ratio vs loan approval trends
+- Customer segmentation using charts and KPIs
+Interactive filters for deep analysis
+
+## Key Insights
+
+- Credit score has a strong influence on loan approval decisions
+- Higher DTI ratios significantly increase rejection probability
+- Customers with previous defaults are mostly classified as high-risk
+- Some medium-risk customers are approved, indicating policy flexibility
+- Risk-based segmentation helps reduce loan default chances
