@@ -55,8 +55,7 @@ Tool Used: Microsoft Excel
 File Format: CSV
 
 📁 Dataset File:
-
-
+bank loan detection and risk scoring.csv
 
 ## Data Analysis (SQL Queries)
 
